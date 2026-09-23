@@ -42,9 +42,7 @@ The original contact form used `mail.php` (PHP), which **does not work on GitHub
 
 **Erion Nezha** — shembull@example.com
 
-Dizajni bazohet në një template të Colorlib (CC BY 3.0), me tekst dhe përmbajtje të përshtatura në shqip.
-Design based on a Colorlib template (CC BY 3.0), with text and content localized in Albanian.
 
 ## 📜 Licenca / License
 
-MIT — shih skedarin [LICENSE](LICENSE).
+Të gjitha të drejtat e rezervuara © 2026 Erion Nezha — shih [LICENSE](LICENSE).
