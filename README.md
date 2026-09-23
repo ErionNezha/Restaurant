@@ -34,13 +34,13 @@ HTML5, CSS3 (Bootstrap 4), JavaScript (jQuery), Google Fonts (Poppins), Font Awe
 
 ## ⚠️ Shënim i rëndësishëm / Important note
 
-Formulari origjinal i kontaktit përdorte `mail.php` (PHP), i cili **nuk funksionon në GitHub Pages** (vetëm faqe statike). Prandaj formulari është zëvendësuar me kontakte direkte dhe një buton **mailto:erjonnezhaa@gmail.com**. Skedari `mail.php` mbahet në repo vetëm si referencë.
+Formulari origjinal i kontaktit përdorte `mail.php` (PHP), i cili **nuk funksionon në GitHub Pages** (vetëm faqe statike). Prandaj formulari është zëvendësuar me kontakte direkte dhe një buton **mailto:shembull@example.com**. Skedari `mail.php` mbahet në repo vetëm si referencë.
 
-The original contact form used `mail.php` (PHP), which **does not work on GitHub Pages** (static hosting only). It has been replaced with direct contact details and a **mailto:erjonnezhaa@gmail.com** button. `mail.php` is kept in the repo for reference only.
+The original contact form used `mail.php` (PHP), which **does not work on GitHub Pages** (static hosting only). It has been replaced with direct contact details and a **mailto:shembull@example.com** button. `mail.php` is kept in the repo for reference only.
 
 ## 👤 Autori / Author
 
-**Erion Nezha** — erjonnezhaa@gmail.com
+**Erion Nezha** — shembull@example.com
 
 Dizajni bazohet në një template të Colorlib (CC BY 3.0), me tekst dhe përmbajtje të përshtatura në shqip.
 Design based on a Colorlib template (CC BY 3.0), with text and content localized in Albanian.
