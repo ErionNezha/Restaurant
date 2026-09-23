@@ -1,8 +1,8 @@
 <?php
 // SHËNIM: Ky skedar PHP nuk funksionon në GitHub Pages (vetëm faqe statike).
-// Formulari i kontaktit në index.html është zëvendësuar me mailto:erjonnezhaa@gmail.com.
+// Formulari i kontaktit në index.html është zëvendësuar me mailto:shembull@example.com.
 // NOTE: This PHP file does not work on GitHub Pages (static hosting only).
-    $to = 'erjonnezhaa@gmail.com';
+    $to = 'shembull@example.com'; // TODO: vendos emailin real
     $firstname = $_POST["fname"];
     $email= $_POST["email"];
     $text= $_POST["message"];
